@@ -1,0 +1,20 @@
+%Exercise 3
+clc; clear all; close all;
+ A=[2 3; 
+    4 5]; 
+ B=[3 4; 
+    6 7]; 
+% disp('A+B = ');
+% disp(A+B);
+% disp('A*B = ');
+% disp(A*B);
+% disp('A.*B = ');
+% disp(A.*B);
+% disp('A/B = ');
+% disp(A/B);
+% disp('A\B = ');
+% disp(A\B);
+% disp('A.^2 = ');
+% disp(A.^2);
+% disp('A./B = ');
+% disp(A./B);
